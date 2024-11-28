@@ -1,7 +1,7 @@
                             LangChain-RAG-Streamlit-ChatBot
 
 Install the Requirements :
-pip install -r requirements.txt
+*pip install -r requirements.txt
 
 Git Clone the Repository:
 git clone https://github.com/mimansha11/LangChain-RAG-ChatBot
