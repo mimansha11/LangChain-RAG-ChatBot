@@ -26,7 +26,7 @@ LangChain-RAG-Streamlit-ChatBot
 
        streamlit run streamlit_app.py
 
-
+worked with github.com/vineetvedant
 
 LEARN MORE 
 
